@@ -15,4 +15,4 @@ Tools: Git, Docker, Kubernetes, Tailwind CSS, AWS, Azure, Terraform
 💬 Ping me about AI integrations, system design, scalable solutions, cloud architecture, and real-time communication.
 
 📩 Contact: hachemimohammedamine@outlook.com
-🔗 LinkedIn
+🔗 LinkedIn https://www.linkedin.com/in/hachemimohammedamine/
